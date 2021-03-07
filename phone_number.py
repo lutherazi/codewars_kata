@@ -12,7 +12,7 @@ def create_phone_number(n):
             if k == 5:
                 phone_number += '-'
     print(phone_number)
-    
+
 
 print('Phone Numbers:')
 create_phone_number([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]), "(123) 456-7890"
